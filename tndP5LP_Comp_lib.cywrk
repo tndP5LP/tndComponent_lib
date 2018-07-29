@@ -14,14 +14,6 @@
 <WriteAppMarketingVersionLastSavedWith v="4.2" />
 <CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyPrjDependencyList" version="4">
 <wrkspc_dependencies>
-<wrkspc_dependency project="tndP5LP_Comp_lib.cylib\tndP5LP_Comp_lib.cyprj" dependency="..\Si5351\Si5351.cydsn\Si5351.cyprj" />
-<wrkspc_dependency project="tndP5LP_Comp_lib.cylib\tndP5LP_Comp_lib.cyprj" dependency="..\QuadDec_SW_lib\QuadDec_SW_lib.cylib\QuadDec_SW_lib.cyprj" />
-<wrkspc_dependency project="tndP5LP_Comp_lib.cylib\tndP5LP_Comp_lib.cyprj" dependency="..\KIT-059_lib\KIT-059_lib.cylib\KIT-059_lib.cyprj" />
-<wrkspc_dependency project="tndP5LP_Comp_lib.cylib\tndP5LP_Comp_lib.cyprj" dependency="..\Ext_LCD_lib\Ext_LCD_lib.cylib\Ext_LCD_lib.cyprj" />
-<wrkspc_dependency project="tndP5LP_Comp_lib.cylib\tndP5LP_Comp_lib.cyprj" dependency="..\Encoder_lib\Encoder_lib.cylib\Encoder_lib.cyprj" />
-<wrkspc_dependency project="tndP5LP_Comp_lib.cylib\tndP5LP_Comp_lib.cyprj" dependency="..\DDS32_lib\DDS32_lib.cylib\DDS32_lib.cyprj" />
-<wrkspc_dependency project="tndP5LP_Comp_lib.cylib\tndP5LP_Comp_lib.cyprj" dependency="..\DDS24_lib\DDS24_lib.cylib\DDS24_lib.cyprj" />
-<wrkspc_dependency project="tndP5LP_Comp_lib.cylib\tndP5LP_Comp_lib.cyprj" dependency="..\CharLCD_I2C_lib\CharLCD_I2C.cylib\CharLCD_I2C.cyprj" />
 </wrkspc_dependencies>
 </CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316>
 <CyGuid_63b68103-67f5-4406-8da6-5c8625765b82 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyIgnoredSystemDepsList" version="1">
