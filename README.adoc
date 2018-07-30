@@ -1,2 +1,2 @@
 ## To Edit a Component or Create a new one
-https://github.com/noeldiviney/P5LP_Development_repo/wiki/4-Editing-Component-Libraries-and-Test-Projects[See this Wiki Page]
+https://github.com/tndP5LP/P5LP_repo/wiki/4-Editing-Component-Libraries-and-Test-Projects-with-git[See this Wiki Page]
